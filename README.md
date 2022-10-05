@@ -1,0 +1,1 @@
+This dataset has a Regression problem, where based on the previously known prices, we need to predict the prices for test data. Using ML techniques for Regression analysis, I have built several models , calculated the R2 score and RMSE score, and then compared the model performances.
